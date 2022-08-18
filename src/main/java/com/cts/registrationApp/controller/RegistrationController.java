@@ -14,7 +14,8 @@ import com.cts.registrationApp.service.RegistrationService;
 @CrossOrigin(origins="http://localhost:4200")
 @RequestMapping("/api")
 public class RegistrationController {
-	
+
+	//nn
 	@Autowired
 	RegistrationService registrationService;
 	
