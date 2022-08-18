@@ -15,7 +15,7 @@ import com.cts.registrationApp.service.RegistrationService;
 @RequestMapping("/api")
 public class RegistrationController {
 
-	//nn
+	//nnn
 	@Autowired
 	RegistrationService registrationService;
 	
